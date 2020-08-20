@@ -15,4 +15,4 @@ window.setTimeout(function() {
 // You can avoid this by wrapping your JS code in the following setTimeout function:
 // window.setTimeout(function() {
 //     // put all of your JS code from the lecture here
-// },500);
+// },500);99
